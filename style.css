@@ -495,3 +495,12 @@ footer h4 {
 .control-btn .fas:before {
   font-size: 1.2rem;
 }
+
+footer .bottom-right-image img{
+  width: 80px;
+  height: auto;
+}
+
+.bottom-right-image img:hover {
+  transform: scale(1.05);
+}
